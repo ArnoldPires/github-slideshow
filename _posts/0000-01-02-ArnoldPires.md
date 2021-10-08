@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hello GitHub, this is some random text. Thank you for all of your help teaching me how to use GitHub.
 Use the left arrow to go back!
